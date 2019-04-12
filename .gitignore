@@ -29,5 +29,6 @@ bot/main.py
 bot/sql.py
 Calculate.xlsm
 config.secret.py
-*.py
 app/static/css/main.0dde5416.chunk.css
+bot/buttons.py
+bot/handlers.py
